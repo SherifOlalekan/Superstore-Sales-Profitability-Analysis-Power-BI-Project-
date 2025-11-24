@@ -66,8 +66,7 @@ Designed with clean visuals, strong DAX modeling, and KPI-driven storytelling, t
 
 ## 📁 Files in This Repository
 
-- `Incredibuilds_DSN_Sales_Report.pdf` — Final exported analytical report  
-- `.pbix` *(optional if included)*  
+- `Incredibuilds_DSN_Sales_Report.pdf` — Final exported analytical report 
 - `README.md` — Project documentation  
 
 ---
